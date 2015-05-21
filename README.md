@@ -1,8 +1,8 @@
-## Talk Starter
+## APIs Strike Back: The Rise Of JSON Web Tokens
 
-This are the slides for the talk WHAT TALK?
+This are the slides for the talk APIs Strike back: The rise of JSON Web Tokens?
 
-You can see them at http://mgonto.github.io/talk-starter
+You can see them at http://mgonto.github.io/apis-strike-back
 
 ## Thanks
 
