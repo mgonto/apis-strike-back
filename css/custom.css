@@ -245,6 +245,138 @@ article.world::before {
   background-image: url("../img/world.gif");
 }
 
+article.github-api::before {
+  -webkit-filter: none;
+  -moz-filter: none;
+  filter: none;
+  background-size: contain;
+  background-image: url("../img/github-api.gif");
+}
+
+article.easy::before {
+  -webkit-filter: none;
+  -moz-filter: none;
+  filter: none;
+  background-image: url("../img/easy.gif");
+}
+
+article.rewind::before {
+  -webkit-filter: none;
+  -moz-filter: none;
+  filter: none;
+  background-image: url("../img/rewind.gif");
+}
+
+article.face-change::before {
+  -webkit-filter: none;
+  -moz-filter: none;
+  filter: none;
+  background-image: url("../img/face-change.gif");
+}
+
+article.so-many::before {
+  -webkit-filter: none;
+  -moz-filter: none;
+  filter: none;
+  background-image: url("../img/so-many.gif");
+}
+
+article.superman::before {
+  -webkit-filter: blur(5.5px) grayscale(0.3) brightness(0.4);
+  -moz-filter: blur(5.5px) grayscale(0.3) brightness(0.4);
+  filter: blur(5.5px) grayscale(0.3) brightness(0.4);
+  background-image: url("../img/superman.gif");
+}
+
+article.jwt-1::before {
+  -webkit-filter: none;
+  -moz-filter: none;
+  filter: none;
+  background-image: url("../img/1.png");
+}
+
+article.jwt-2::before {
+  -webkit-filter: none;
+  -moz-filter: none;
+  filter: none;
+  background-image: url("../img/2.png");
+}
+
+article.jwt-3::before {
+  -webkit-filter: none;
+  -moz-filter: none;
+  filter: none;
+  background-image: url("../img/3.png");
+}
+
+article.jwt-4::before {
+  -webkit-filter: none;
+  -moz-filter: none;
+  filter: none;
+  background-image: url("../img/4.png");
+}
+
+article.jwt-5::before {
+  -webkit-filter: none;
+  -moz-filter: none;
+  filter: none;
+  background-image: url("../img/5.png");
+}
+
+article.jwt-6::before {
+  -webkit-filter: none;
+  -moz-filter: none;
+  filter: none;
+  background-image: url("../img/6.png");
+}
+
+article.jwt-7::before {
+  -webkit-filter: none;
+  -moz-filter: none;
+  filter: none;
+  background-image: url("../img/7.png");
+}
+
+article.what::before {
+  -webkit-filter: none;
+  -moz-filter: none;
+  filter: none;
+  background-image: url("../img/what.gif");
+}
+
+article.scopes::before {
+  -webkit-filter: none;
+  -moz-filter: none;
+  filter: none;
+  background-size: contain;
+  background-image: url("../img/scopes.png");
+}
+
+article.exp::before {
+  -webkit-filter: none;
+  -moz-filter: none;
+  filter: none;
+  background-size: contain;
+  background-image: url("../img/exp.png");
+}
+
+article.jti::before {
+  -webkit-filter: none;
+  -moz-filter: none;
+  filter: none;
+  background-size: contain;
+  background-image: url("../img/jti.png");
+}
+
+article.bla::before {
+  -webkit-filter: none;
+  -moz-filter: none;
+  filter: none;
+  background-image: url("../img/bla.gif");
+}
+
+
+
 .btn-free {
   -webkit-background-clip: border-box;
   -webkit-background-origin: padding-box;
